@@ -1,0 +1,6 @@
+[submodule "go-socketio"]
+	path = go-socketio
+	url = https://gitlab.com/i2138/swobby/go-socketio.git
+[submodule "swobby-backend"]
+	path = swobby-backend
+	url = https://gitlab.com/i2138/swobby/swobby-backend.git
